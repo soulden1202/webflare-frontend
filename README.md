@@ -4,7 +4,7 @@ Steps to run this locally
 
 If you don't have node installed yet please check out their main page: https://nodejs.org/en/download
 
-After npm is installed run, open a terminal at the location the project and run: 
+After npm is installed, open a terminal at the location the project and run: 
 `npm install`
 
 After that run:
