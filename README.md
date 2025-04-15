@@ -17,8 +17,8 @@ On the terminal run:
 After that run:
 `npm run start`
 
-The app should start on the [localhost:3000](http://localhost:3000)
-Please make sure that the app is running on the localhost:3000, if you running on other ports it may get blocked by CORS
+- The app should start on the [localhost:3000](http://localhost:3000)
+- Please make sure that the app is running on the localhost:3000, if you running on other ports it may get blocked by CORS
 
 
 The backend is hosted on vercel so you can use the app right away, but if you want to run the backend locally please check this repo:
