@@ -4,8 +4,8 @@ Steps to run this locally
 ## Download the project
 Open a terminal and run 
 
-`git clone https://github.com/soulden1202/webflare-frontend.git`
-`cd .\webflare-frontend\`
+- `git clone https://github.com/soulden1202/webflare-frontend.git`
+- `cd .\webflare-frontend\`
 
 ## NPM
 
