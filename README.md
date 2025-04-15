@@ -11,7 +11,7 @@ Open a terminal and run
 
 If you don't have node installed yet please check out their main page: https://nodejs.org/en/download
 
-On the terminal: 
+On the terminal run: 
 `npm install`
 
 After that run:
