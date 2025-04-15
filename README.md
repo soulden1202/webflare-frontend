@@ -23,5 +23,5 @@ After that run:
 
 The backend is hosted on vercel so you can use the app right away, but if you want to run the backend locally please check this repo:
 
-[Backend repo]([docs/CONTRIBUTING.md](https://github.com/soulden1202/webflare-backend))
+[Backend repo](https://github.com/soulden1202/webflare-backend)
 
